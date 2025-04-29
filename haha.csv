@@ -1,0 +1,515 @@
+"Tier","Module","Description","SDK Name","Supplier Name","Component Name/Licensing","Version","EOL","UID","Dependency Matrix/IP rights","Last Updated on","Last Updated by","Links","CVE ID"
+"","Health Check","HealthChecks.NpgSql is a health check for Postgress Sql.","=HYPERLINK(""https://www.nuget.org/packages/AspNetCore.HealthChecks.NpgSql/8.0.1"", ""AspNetCore.HealthChecks.NpgSql"")","Xabaril Contributors","Apache-2.0","8.0.1","","","","02-Apr-24","Xabaril Contributors","https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks
+https://www.nuget.org/packages/AspNetCore.HealthChecks.NpgSql/8.0.1#versions-body-tab",""
+"","Health Check","HealthChecks.NpgSql is a health check for Postgress Sql.","=HYPERLINK(""https://www.nuget.org/packages/AspNetCore.HealthChecks.NpgSql/8.0.0"", ""AspNetCore.HealthChecks.NpgSql"")","Xabaril Contributors","Apache-2.0","8.0.0","","","","15-Dec-23","Xabaril Contributors","https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks
+https://www.nuget.org/packages/AspNetCore.HealthChecks.NpgSql/8.0.0#versions-body-tab",""
+"","Mapping","A convention-based object-object mapper.","=HYPERLINK(""https://www.nuget.org/packages/AutoMapper/12.0.1"", ""AutoMapper"")","Jimmy Bogard","MIT","12.0.1","","","","16-Jan-23","Jimmy Bogard","https://automapper.org/
+https://www.nuget.org/packages/AutoMapper/12.0.1#versions-body-tab",""
+"","Mapping","AutoMapper extensions for ASP.NET Core","=HYPERLINK(""https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1"", ""AutoMapper.Extensions.Microsoft.DependencyInjection"")","Jimmy Bogard","MIT","12.0.1","","","","09-Apr-23","Jimmy Bogard","https://automapper.org/
+https://www.nuget.org/packages/AutoMapper.Extensions.Microsoft.DependencyInjection/12.0.1#versions-body-tab",""
+"","Cloud Services","Amazon CloudFront is a content delivery web service. It integrates with other Am
+azon Web Services products to give developers and businesses an easy way to dist
+ribute content to end users with low latency, high data transfer speeds, and no 
+minimum usage commitments.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.CloudFront/3.7.301.29"", ""AWSSDK.CloudFront"")","Amazon Web Services","Apache-2.0","3.7.301.29","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.CloudFront/3.7.301.29#versions-body-tab",""
+"","Cloud Services","The Amazon Web Services SDK for .NET - Core Runtime","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.Core/3.7.301.9"", ""AWSSDK.Core"")","Amazon Web Services","Apache-2.0","3.7.301.9","","","","20-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.Core/3.7.301.9#versions-body-tab",""
+"","Cloud Services","The Amazon Web Services SDK for .NET - Core Runtime","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.Core/3.7.301.6"", ""AWSSDK.Core"")","Amazon Web Services","Apache-2.0","3.7.301.6","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.Core/3.7.301.6#versions-body-tab",""
+"","Cloud Services","Extensions for the AWS SDK for .NET to integrate with .NET Core configuration an
+d dependency injection frameworks.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.Extensions.NETCore.Setup/3.7.300"", ""AWSSDK.Extensions.NETCore.Setup"")","Amazon Web Services","Apache-2.0","3.7.300","","","","16-Nov-23","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.Extensions.NETCore.Setup/3.7.300#versions-body-tab",""
+"","Cloud Services","AWS Key Management Service (KMS) is a managed service that makes it easy for you
+ to create and control the encryption keys used to encrypt your data, and uses H
+ardware Security Modules (HSMs) to protect the security of your keys.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.KeyManagementService/3.7.300.36"", ""AWSSDK.KeyManagementService"")","Amazon Web Services","Apache-2.0","3.7.300.36","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.KeyManagementService/3.7.300.36#versions-body-tab",""
+"","Cloud Services","Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with
+ secure, durable, highly-scalable object storage.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.S3/3.7.305.14"", ""AWSSDK.S3"")","Amazon Web Services","Apache-2.0","3.7.305.14","","","","20-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.S3/3.7.305.14#versions-body-tab",""
+"","Cloud Services","Amazon Simple Storage Service (Amazon S3), provides developers and IT teams with
+ secure, durable, highly-scalable object storage.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.S3/3.7.305.11"", ""AWSSDK.S3"")","Amazon Web Services","Apache-2.0","3.7.305.11","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.S3/3.7.305.11#versions-body-tab",""
+"","Cloud Services","AWS Secrets Manager enables you to easily create and manage the secrets that you
+ use in your customer-facing apps. Instead of embedding credentials into your so
+urce code, you can dynamically query Secrets Manager from your app whenever you 
+need credentials. You can automatically and frequently rotate your secrets witho
+ut having to deploy updates to your apps. All secret values are encrypted when t
+hey're at rest with AWS KMS, and while they're in transit with HTTPS and TLS.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.SecretsManager/3.7.302.11"", ""AWSSDK.SecretsManager"")","Amazon Web Services","Apache-2.0","3.7.302.11","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.SecretsManager/3.7.302.11#versions-body-tab",""
+"","Cloud Services","Amazon SES is an outbound-only email-sending service that provides an easy, cost
+-effective way for you to send email.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.SimpleEmail/3.7.300.36"", ""AWSSDK.SimpleEmail"")","Amazon Web Services","Apache-2.0","3.7.300.36","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.SimpleEmail/3.7.300.36#versions-body-tab",""
+"","Cloud Services","Amazon Simple Notification Service (Amazon SNS) is a fast, flexible, fully manag
+ed push messaging service. Amazon SNS makes it simple and cost-effective to push
+ notifications to Apple, Google, Fire OS, and Windows devices, as well as Androi
+d devices in China with Baidu Cloud Push. You can also use SNS to push notificat
+ions to internet connected smart devices, as well as other distributed services.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.SimpleNotificationService/3.7.300.36"", ""AWSSDK.SimpleNotificationService"")","Amazon Web Services","Apache-2.0","3.7.300.36","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.SimpleNotificationService/3.7.300.36#versions-body-tab",""
+"","Cloud Services","Amazon Simple Queue Service (SQS) is a fast, reliable, scalable, fully managed m
+essage queuing service. SQS makes it simple and cost-effective to decouple the c
+omponents of a cloud application.","=HYPERLINK(""https://www.nuget.org/packages/AWSSDK.SQS/3.7.300.36"", ""AWSSDK.SQS"")","Amazon Web Services","Apache-2.0","3.7.300.36","","","","14-Jan-24","Amazon Web Services","https://github.com/aws/aws-sdk-net/
+https://www.nuget.org/packages/AWSSDK.SQS/3.7.300.36#versions-body-tab",""
+"","Authentication","This is the implementation of the Azure SDK Client Library for Azure Identity","=HYPERLINK(""https://www.nuget.org/packages/Azure.Identity/1.12.0"", ""Azure.Identity"")","Microsoft","MIT","1.12.0","","","","18-Jun-24","Microsoft","https://github.com/Azure/azure-sdk-for-net/blob/Azure.Identity_1.12.0/sdk/identity/Azure.Identity/README.md
+https://www.nuget.org/packages/Azure.Identity/1.12.0#versions-body-tab",""
+"","General","Enable SAML v2.0 identity provider (IdP) and service provider (SP) single sign-o
+n (SSO) in ASP.NET Core applications. Includes SAML authentication middleware su
+pport. This is a fully functional evaluation version of a commercial product. Th
+e trial period is 30 days.","=HYPERLINK(""https://www.nuget.org/packages/ComponentSpace.Saml2/4.10.0"", ""ComponentSpace.Saml2"")","ComponentSpace","N/A","4.10.0","","","","08-Nov-23","ComponentSpace","https://www.componentspace.com/saml
+https://www.nuget.org/packages/ComponentSpace.Saml2/4.10.0#versions-body-tab",""
+"","General","Coverlet is a cross platform code coverage library for .NET, with support for li
+ne, branch and method coverage.","=HYPERLINK(""https://www.nuget.org/packages/coverlet.collector/6.0.0"", ""coverlet.collector"")","tonerdo","MIT","6.0.0","","","","21-May-23","tonerdo","https://github.com/coverlet-coverage/coverlet
+https://www.nuget.org/packages/coverlet.collector/6.0.0#versions-body-tab",""
+"","General","A library for reading and writing CSV files. Extremely fast, flexible, and easy 
+to use. Supports reading and writing of custom class objects.","=HYPERLINK(""https://www.nuget.org/packages/CsvHelper/30.0.1"", ""CsvHelper"")","Josh Close","MS-PL OR Apache-2.0","30.0.1","","","","12-Nov-22","Josh Close","https://joshclose.github.io/CsvHelper/
+https://www.nuget.org/packages/CsvHelper/30.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","EntityFramework .Net EFCore EF Core Bulk Batch Extensions for Insert Update Dele
+te Read (CRUD) operations on SQL Server, PostgreSQL, MySQL, SQLite","=HYPERLINK(""https://www.nuget.org/packages/EFCore.BulkExtensions/8.0.4"", ""EFCore.BulkExtensions"")","borisdj","N/A","8.0.4","","","","23-May-24","borisdj","https://github.com/borisdj/EFCore.BulkExtensions
+https://www.nuget.org/packages/EFCore.BulkExtensions/8.0.4#versions-body-tab",""
+"","Entity Framework (ORM)","EntityFramework .Net EFCore EF Core Bulk Batch Extensions for Insert Update Dele
+te Read (CRUD) operations on SQL Server, PostgreSQL, MySQL, SQLite","=HYPERLINK(""https://www.nuget.org/packages/EFCore.BulkExtensions/8.0.1"", ""EFCore.BulkExtensions"")","borisdj","N/A","8.0.1","","","","14-Dec-23","borisdj","https://github.com/borisdj/EFCore.BulkExtensions
+https://www.nuget.org/packages/EFCore.BulkExtensions/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","Useful tools when unit testing applications that use Entity Framework Core. See 
+readme file on github.","=HYPERLINK(""https://www.nuget.org/packages/EfCore.TestSupport/6.0.0"", ""EfCore.TestSupport"")","Jon P Smith","MIT","6.0.0","","","","21-Nov-23","Jon P Smith","N/A
+https://www.nuget.org/packages/EfCore.TestSupport/6.0.0#versions-body-tab",""
+"","Entity Framework (ORM)","Useful tools when unit testing applications that use Entity Framework Core. See 
+readme file on github.","=HYPERLINK(""https://www.nuget.org/packages/EfCore.TestSupport/8.0.0"", ""EfCore.TestSupport"")","Jon P Smith","MIT","8.0.0","","","","04-Apr-24","Jon P Smith","N/A
+https://www.nuget.org/packages/EfCore.TestSupport/8.0.0#versions-body-tab",""
+"","Entity Framework (ORM)","Dynamic Linq extensions for EntityFramework which adds Async support","=HYPERLINK(""https://www.nuget.org/packages/EntityFramework.DynamicLinq/1.3.8"", ""EntityFramework.DynamicLinq"")","ZZZ Projects,Stef Heyenrath","Apache-2.0","1.3.8","","","","20-Jan-24","ZZZ Projects,Stef Heyenrath","https://dynamic-linq.net/
+https://www.nuget.org/packages/EntityFramework.DynamicLinq/1.3.8#versions-body-tab",""
+"","Entity Framework (ORM)","Provides AutoHistory utilities for Microsoft.EntityFrameworkCore.","=HYPERLINK(""https://www.nuget.org/packages/EntityFrameworkCore.Data.AutoHistory/7.0.12"", ""EntityFrameworkCore.Data.AutoHistory"")","Lima Technology Services,Fernando Luiz de Lima","MIT","7.0.12","","","","25-Oct-23","Lima Technology Services,Fernando Luiz de Lima","https://github.com/ffernandolima/ef-core-data-access
+https://www.nuget.org/packages/EntityFrameworkCore.Data.AutoHistory/7.0.12#versions-body-tab",""
+"","Database","Handle database errors easily when working with Entity Framework Core. Catch spe
+cific exceptions such as UniqueConstraintException, CannotInsertNullException, M
+axLengthExceededException, NumericOverflowException or ReferenceConstraintExcept
+ion instead of generic DbUpdateException","=HYPERLINK(""https://www.nuget.org/packages/EntityFrameworkCore.Exceptions.PostgreSQL/8.0.0"", ""EntityFrameworkCore.Exceptions.PostgreSQL"")","Giorgi Dalakishvili","N/A","8.0.0","","","","11-Dec-23","Giorgi Dalakishvili","https://github.com/Giorgi/EntityFramework.Exceptions
+https://www.nuget.org/packages/EntityFrameworkCore.Exceptions.PostgreSQL/8.0.0#versions-body-tab",""
+"","General","A spreadsheet library for .NET framework and .NET core","=HYPERLINK(""https://www.nuget.org/packages/EPPlus/7.0.6"", ""EPPlus"")","EPPlus Software AB","N/A","7.0.6","","","","10-Jan-24","EPPlus Software AB","https://epplussoftware.com/
+https://www.nuget.org/packages/EPPlus/7.0.6#versions-body-tab",""
+"","General","Lightweight and fast library written in C# for reading Microsoft Excel files (XL
+S, XLSX).","=HYPERLINK(""https://www.nuget.org/packages/ExcelDataReader/3.7.0"", ""ExcelDataReader"")","ExcelDataReader developers","MIT","3.7.0","","","","23-Jun-24","ExcelDataReader developers","https://github.com/ExcelDataReader/ExcelDataReader
+https://www.nuget.org/packages/ExcelDataReader/3.7.0#versions-body-tab",""
+"","General","ExcelDataReader extension for reading Microsoft Excel files into System.Data.Dat
+aSet.","=HYPERLINK(""https://www.nuget.org/packages/ExcelDataReader.DataSet/3.7.0"", ""ExcelDataReader.DataSet"")","ExcelDataReader developers","MIT","3.7.0","","","","23-Jun-24","ExcelDataReader developers","https://github.com/ExcelDataReader/ExcelDataReader
+https://www.nuget.org/packages/ExcelDataReader.DataSet/3.7.0#versions-body-tab",""
+"","General","Firebase Admin SDK enables server-side .NET developers to integrate Firebase int
+o their services and applications.","=HYPERLINK(""https://www.nuget.org/packages/FirebaseAdmin/2.4.0"", ""FirebaseAdmin"")","Google Inc.","Apache-2.0","2.4.0","","","","13-Jul-23","Google Inc.","https://github.com/Firebase/firebase-admin-dotnet
+https://www.nuget.org/packages/FirebaseAdmin/2.4.0#versions-body-tab",""
+"","General","Fuzzy string matcher based on FuzzyWuzzy algorithm from SeatGeek","=HYPERLINK(""https://www.nuget.org/packages/FuzzySharp/2.0.2"", ""FuzzySharp"")","Jacob Bayer","MIT","2.0.2","","","","26-Jun-20","Jacob Bayer","https://github.com/JakeBayer/FuzzySharp
+https://www.nuget.org/packages/FuzzySharp/2.0.2#versions-body-tab",""
+"","General","C# runtime library for Protocol Buffers - Google's data interchange format.","=HYPERLINK(""https://www.nuget.org/packages/Google.Protobuf/3.27.2"", ""Google.Protobuf"")","Google Inc.","BSD-3-Clause","3.27.2","","","","26-Jun-24","Google Inc.","https://github.com/protocolbuffers/protobuf
+https://www.nuget.org/packages/Google.Protobuf/3.27.2#versions-body-tab",""
+"","General","C# runtime library for Protocol Buffers - Google's data interchange format.","=HYPERLINK(""https://www.nuget.org/packages/Google.Protobuf/3.25.2"", ""Google.Protobuf"")","Google Inc.","BSD-3-Clause","3.25.2","","","","10-Jan-24","Google Inc.","https://github.com/protocolbuffers/protobuf
+https://www.nuget.org/packages/Google.Protobuf/3.25.2#versions-body-tab",""
+"","Authentication","Google Authenticator Two-Factor Authentication Library (Not officially affiliate
+d with Google.)","=HYPERLINK(""https://www.nuget.org/packages/GoogleAuthenticator/3.2.0"", ""GoogleAuthenticator"")","Brandon Potter","Apache-2.0","3.2.0","","","","12-Jan-24","Brandon Potter","https://github.com/BrandonPotter/GoogleAuthenticator
+https://www.nuget.org/packages/GoogleAuthenticator/3.2.0#versions-body-tab",""
+"","gRPC","gRPC meta-package for ASP.NET Core","=HYPERLINK(""https://www.nuget.org/packages/Grpc.AspNetCore/2.63.0"", ""Grpc.AspNetCore"")","The gRPC Authors","Apache-2.0","2.63.0","","","","24-May-24","The gRPC Authors","https://github.com/grpc/grpc-dotnet
+https://www.nuget.org/packages/Grpc.AspNetCore/2.63.0#versions-body-tab",""
+"","gRPC","gRPC meta-package for ASP.NET Core","=HYPERLINK(""https://www.nuget.org/packages/Grpc.AspNetCore/2.60.0"", ""Grpc.AspNetCore"")","The gRPC Authors","Apache-2.0","2.60.0","","","","03-Jan-24","The gRPC Authors","https://github.com/grpc/grpc-dotnet
+https://www.nuget.org/packages/Grpc.AspNetCore/2.60.0#versions-body-tab",""
+"","gRPC",".NET client for gRPC","=HYPERLINK(""https://www.nuget.org/packages/Grpc.Net.Client/2.63.0"", ""Grpc.Net.Client"")","The gRPC Authors","Apache-2.0","2.63.0","","","","24-May-24","The gRPC Authors","https://github.com/grpc/grpc-dotnet
+https://www.nuget.org/packages/Grpc.Net.Client/2.63.0#versions-body-tab",""
+"","gRPC",".NET client for gRPC","=HYPERLINK(""https://www.nuget.org/packages/Grpc.Net.Client/2.60.0"", ""Grpc.Net.Client"")","The gRPC Authors","Apache-2.0","2.60.0","","","","03-Jan-24","The gRPC Authors","https://github.com/grpc/grpc-dotnet
+https://www.nuget.org/packages/Grpc.Net.Client/2.60.0#versions-body-tab",""
+"","gRPC","gRPC and Protocol Buffer compiler for C# projects","=HYPERLINK(""https://www.nuget.org/packages/Grpc.Tools/2.64.0"", ""Grpc.Tools"")","The gRPC Authors","Apache-2.0","2.64.0","","","","23-May-24","The gRPC Authors","https://github.com/grpc/grpc
+https://www.nuget.org/packages/Grpc.Tools/2.64.0#versions-body-tab",""
+"","gRPC","gRPC and Protocol Buffer compiler for C# projects","=HYPERLINK(""https://www.nuget.org/packages/Grpc.Tools/2.60.0"", ""Grpc.Tools"")","The gRPC Authors","Apache-2.0","2.60.0","","","","12-Dec-23","The gRPC Authors","https://github.com/grpc/grpc
+https://www.nuget.org/packages/Grpc.Tools/2.60.0#versions-body-tab",""
+"","General","An easy and reliable way to perform fire-and-forget, delayed and recurring, long
+-running, short-running, CPU or I/O intensive tasks inside ASP.NET applications.
+ No Windows Service / Task Scheduler required. Even ASP.NET is not required. Bac
+ked by Redis, SQL Server, SQL Azure or MSMQ. This is a .NET alternative to Sidek
+iq, Resque and Celery. https://www.hangfire.io/","=HYPERLINK(""https://www.nuget.org/packages/Hangfire/1.8.14"", ""Hangfire"")","Sergey Odinokov","N/A","1.8.14","","","","11-Jun-24","Sergey Odinokov","https://www.hangfire.io/
+https://www.nuget.org/packages/Hangfire/1.8.14#versions-body-tab",""
+"","General","An easy and reliable way to perform fire-and-forget, delayed and recurring, long
+-running, short-running, CPU or I/O intensive tasks inside ASP.NET applications.
+ No Windows Service / Task Scheduler required. Even ASP.NET is not required. Bac
+ked by Redis, SQL Server, SQL Azure or MSMQ. This is a .NET alternative to Sidek
+iq, Resque and Celery. https://www.hangfire.io/","=HYPERLINK(""https://www.nuget.org/packages/Hangfire/1.8.7"", ""Hangfire"")","Sergey Odinokov","N/A","1.8.7","","","","29-Dec-23","Sergey Odinokov","https://www.hangfire.io/
+https://www.nuget.org/packages/Hangfire/1.8.7#versions-body-tab",""
+"","General","ASP.NET Core support for Hangfire, a background job framework for .NET applicati
+ons.","=HYPERLINK(""https://www.nuget.org/packages/Hangfire.AspNetCore/1.8.14"", ""Hangfire.AspNetCore"")","Sergey Odinokov","N/A","1.8.14","","","","11-Jun-24","Sergey Odinokov","https://www.hangfire.io/
+https://www.nuget.org/packages/Hangfire.AspNetCore/1.8.14#versions-body-tab",""
+"","Database","PostgreSql storage implementation for Hangfire (background job system for ASP.NE
+T and aspnet core applications).","=HYPERLINK(""https://www.nuget.org/packages/Hangfire.PostgreSql/1.20.5"", ""Hangfire.PostgreSql"")","Frank Hommers and others (Burhan Irmikci (barhun), Zachary Sims(zsims), kgamecar
+ter, Stafford Williams (staff0rd), briangweber, Viktor Svyatokha (ahydrax), Chri
+stopher Dresel (Dresel), Vytautas Kasparavičius (vytautask), Vincent Vrijburg, D
+avid Roth (davidroth), Žygimantas Arūna (azygis).","N/A","1.20.5","","","","24-Dec-23","Frank Hommers and others (Burhan Irmikci (barhun), Zachary Sims(zsims), kgamecar
+ter, Stafford Williams (staff0rd), briangweber, Viktor Svyatokha (ahydrax), Chri
+stopher Dresel (Dresel), Vytautas Kasparavičius (vytautask), Vincent Vrijburg, D
+avid Roth (davidroth), Žygimantas Arūna (azygis).","http://hmm.rs/Hangfire.PostgreSql
+https://www.nuget.org/packages/Hangfire.PostgreSql/1.20.5#versions-body-tab",""
+"","General",".NET Core P/Invoke wrapper for wkhtmltopdf library that uses Webkit engine to co
+nvert HTML pages to PDF.","=HYPERLINK(""https://www.nuget.org/packages/Haukcode.WkHtmlToPdfDotNet/1.5.86"", ""Haukcode.WkHtmlToPdfDotNet"")","rdvojmoc, HakanL, georgechond94","LGPL-3.0-or-later","1.5.86","","","","20-Sept-22","rdvojmoc, HakanL, georgechond94","https://github.com/HakanL/WkHtmlToPdf-DotNet
+https://www.nuget.org/packages/Haukcode.WkHtmlToPdfDotNet/1.5.86#versions-body-tab",""
+"","General","A service API versioning library for Microsoft ASP.NET Core.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Versioning/5.1.0"", ""Microsoft.AspNetCore.Mvc.Versioning"")","Microsoft","MIT","5.1.0","","","","24-May-23","Microsoft","https://github.com/dotnet/aspnet-api-versioning/wiki
+https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.Versioning/5.1.0#versions-body-tab",""
+"","General","Firely's SDK for working with HL7 FHIR R4. This is the root package for the SDK 
+includes core functionality to working with RESTful FHIR servers, POCO classes f
+or FHIR, parsing/serialization of FHIR data and working with conformance data an
+d terminologies.","=HYPERLINK(""https://www.nuget.org/packages/Hl7.Fhir.R4/5.9.0"", ""Hl7.Fhir.R4"")","Firely (info@fire.ly) and contributors","BSD-3-Clause","5.9.0","","","","25-Jul-24","Firely (info@fire.ly) and contributors","https://github.com/FirelyTeam/firely-net-sdk
+https://www.nuget.org/packages/Hl7.Fhir.R4/5.9.0#versions-body-tab",""
+"","General","This is an agile HTML parser that builds a read/write DOM and supports plain XPA
+TH or XSLT (you actually don't HAVE to understand XPATH nor XSLT to use it, don'
+t worry...). It is a .NET code library that allows you to parse ""out of the web""
+ HTML files. The parser is very tolerant with ""real world"" malformed HTML. The o
+bject model is very similar to what proposes System.Xml, but for HTML documents 
+(or streams).","=HYPERLINK(""https://www.nuget.org/packages/HtmlAgilityPack/1.11.57"", ""HtmlAgilityPack"")","ZZZ Projects,Simon Mourrier,Jeff Klawiter,Stephan Grell","N/A","1.11.57","","","","01-Jan-00","ZZZ Projects,Simon Mourrier,Jeff Klawiter,Stephan Grell","http://html-agility-pack.net/
+https://www.nuget.org/packages/HtmlAgilityPack/1.11.57#versions-body-tab",""
+"","General","Cleans HTML from constructs that can be used for cross-site scripting (XSS)","=HYPERLINK(""https://www.nuget.org/packages/HtmlSanitizer/8.0.811"", ""HtmlSanitizer"")","Michael Ganss","MIT","8.0.811","","","","20-Dec-23","Michael Ganss","https://github.com/mganss/HtmlSanitizer
+https://www.nuget.org/packages/HtmlSanitizer/8.0.811#versions-body-tab",""
+"","Authentication","OpenID Connect & OAuth 2.0 client library","=HYPERLINK(""https://www.nuget.org/packages/IdentityModel/6.2.0"", ""IdentityModel"")","Dominick Baier,Brock Allen","Apache-2.0","6.2.0","","","","01-Jan-00","Dominick Baier,Brock Allen","https://github.com/IdentityModel/IdentityModel
+https://www.nuget.org/packages/IdentityModel/6.2.0#versions-body-tab",""
+"","Logging","JsonLogic built on the System.Text.Json namespace","=HYPERLINK(""https://www.nuget.org/packages/JsonLogic/5.2.1"", ""JsonLogic"")","Greg Dennis","MIT","5.2.1","","","","20-Apr-24","Greg Dennis","https://github.com/gregsdennis/json-everything
+https://www.nuget.org/packages/JsonLogic/5.2.1#versions-body-tab",""
+"","Logging","JsonLogic built on the System.Text.Json namespace.","=HYPERLINK(""https://www.nuget.org/packages/JsonLogic/4.0.4"", ""JsonLogic"")","Greg Dennis","N/A","4.0.4","","","","30-Mar-23","Greg Dennis","https://github.com/gregsdennis/json-everything
+https://www.nuget.org/packages/JsonLogic/4.0.4#versions-body-tab",""
+"","General","C# port of Google's common Java, C++ and Javascript library for parsing, formatt
+ing, storing and validating international phone numbers. https://github.com/goog
+le/libphonenumber","=HYPERLINK(""https://www.nuget.org/packages/libphonenumber-csharp/8.13.54"", ""libphonenumber-csharp"")","Patrick Mézard,Thomas Clegg,Jarrod Alexander,Google,libphonenumber contributors","Apache-2.0","8.13.54","","","","31-Jan-25","Patrick Mézard,Thomas Clegg,Jarrod Alexander,Google,libphonenumber contributors","https://github.com/twcclegg/libphonenumber-csharp
+https://www.nuget.org/packages/libphonenumber-csharp/8.13.54#versions-body-tab",""
+"","General","Lucene.Net is a full-text search engine library capable of advanced text analysi
+s, indexing, and searching. It can be used to easily add search capabilities to 
+applications. Lucene.Net is a C# port of the popular Java Lucene search engine f
+ramework from The Apache Software Foundation, targeted at .NET Framework and .NE
+T Core users.","=HYPERLINK(""https://www.nuget.org/packages/Lucene.Net/4.8.0-beta00016"", ""Lucene.Net"")","The Apache Software Foundation","N/A","4.8.0-beta00016","","","","17-Feb-22","The Apache Software Foundation","https://lucenenet.apache.org/
+https://www.nuget.org/packages/Lucene.Net/4.8.0-beta00016#versions-body-tab",""
+"","General","Analyzers for indexing content in different languages and domains for the Lucene
+.NET full-text search engine library from The Apache Software Foundation. Docume
+ntation: https://lucenenet.apache.org/docs/4.8.0-beta00016/api/analysis-common/o
+verview.html This package is part of the Lucene.NET project: https://www.nuget.o
+rg/packages/Lucene.Net/4.8.0-beta00016","=HYPERLINK(""https://www.nuget.org/packages/Lucene.Net.Analysis.Common/4.8.0-beta00016"", ""Lucene.Net.Analysis.Common"")","The Apache Software Foundation","N/A","4.8.0-beta00016","","","","17-Feb-22","The Apache Software Foundation","https://lucenenet.apache.org/
+https://www.nuget.org/packages/Lucene.Net.Analysis.Common/4.8.0-beta00016#versions-body-tab",""
+"","General","Query parsers and parsing framework for the Lucene.NET full-text search engine l
+ibrary from The Apache Software Foundation. Documentation: https://lucenenet.apa
+che.org/docs/4.8.0-beta00016/api/queryparser/overview.html This package is part 
+of the Lucene.NET project: https://www.nuget.org/packages/Lucene.Net/4.8.0-beta0
+0016","=HYPERLINK(""https://www.nuget.org/packages/Lucene.Net.QueryParser/4.8.0-beta00016"", ""Lucene.Net.QueryParser"")","The Apache Software Foundation","N/A","4.8.0-beta00016","","","","17-Feb-22","The Apache Software Foundation","https://lucenenet.apache.org/
+https://www.nuget.org/packages/Lucene.Net.QueryParser/4.8.0-beta00016#versions-body-tab",""
+"","Authentication","ASP.NET Core middleware that enables an application to receive an OpenID Connect
+ bearer token. This package was built from the source code at https://github.com
+/dotnet/aspnetcore/tree/b8139c5ee58f1708b0e3368a1b241400edd6cbc4","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/8.0.6"", ""Microsoft.AspNetCore.Authentication.JwtBearer"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/8.0.6#versions-body-tab",""
+"","Authentication","ASP.NET Core middleware that enables an application to receive an OpenID Connect
+ bearer token. This package was built from the source code at https://github.com
+/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/8.0.1"", ""Microsoft.AspNetCore.Authentication.JwtBearer"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/8.0.1#versions-body-tab",""
+"","Authentication","ASP.NET Core middleware that enables an application to receive an OpenID Connect
+ bearer token. This package was built from the source code at https://github.com
+/dotnet/aspnetcore/tree/d47e49e9c1e173ac90821f7e89cc38e710274241","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/7.0.5"", ""Microsoft.AspNetCore.Authentication.JwtBearer"")","Microsoft","MIT","7.0.5","","","","11-Apr-23","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Authentication.JwtBearer/7.0.5#versions-body-tab",""
+"","Entity Framework (ORM)","ASP.NET Core middleware for Entity Framework Core error pages. Use this middlewa
+re to detect and diagnose errors with Entity Framework Core migrations. This pac
+kage was built from the source code at https://github.com/dotnet/aspnetcore/tree
+/b8139c5ee58f1708b0e3368a1b241400edd6cbc4","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.6"", ""Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.6#versions-body-tab",""
+"","Entity Framework (ORM)","ASP.NET Core middleware for Entity Framework Core error pages. Use this middlewa
+re to detect and diagnose errors with Entity Framework Core migrations. This pac
+kage was built from the source code at https://github.com/dotnet/aspnetcore/tree
+/8e941eb42f819adb116b881195158b3887a70a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.1"", ""Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","ASP.NET Core Identity provider that uses Entity Framework Core. This package was
+ built from the source code at https://github.com/dotnet/aspnetcore/tree/b8139c5
+ee58f1708b0e3368a1b241400edd6cbc4","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.6"", ""Microsoft.AspNetCore.Identity.EntityFrameworkCore"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.6#versions-body-tab",""
+"","Entity Framework (ORM)","ASP.NET Core Identity provider that uses Entity Framework Core. This package was
+ built from the source code at https://github.com/dotnet/aspnetcore/tree/8e941eb
+42f819adb116b881195158b3887a70a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.1"", ""Microsoft.AspNetCore.Identity.EntityFrameworkCore"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore/8.0.1#versions-body-tab",""
+"","Authentication","ASP.NET Core Identity UI is the default Razor Pages built-in UI for the ASP.NET 
+Core Identity framework. This package was built from the source code at https://
+github.com/dotnet/aspnetcore/tree/b8139c5ee58f1708b0e3368a1b241400edd6cbc4","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.UI/8.0.6"", ""Microsoft.AspNetCore.Identity.UI"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.UI/8.0.6#versions-body-tab",""
+"","Authentication","ASP.NET Core Identity UI is the default Razor Pages built-in UI for the ASP.NET 
+Core Identity framework. This package was built from the source code at https://
+github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.UI/8.0.1"", ""Microsoft.AspNetCore.Identity.UI"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.UI/8.0.1#versions-body-tab",""
+"","Serialization","ASP.NET Core support for JSON PATCH. This package was built from the source code
+ at https://github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887
+a70a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.JsonPatch/8.0.1"", ""Microsoft.AspNetCore.JsonPatch"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.JsonPatch/8.0.1#versions-body-tab",""
+"","Serialization","ASP.NET Core MVC features that use Newtonsoft.Json. Includes input and output fo
+rmatters for JSON and JSON PATCH. This package was built from the source code at
+ https://github.com/dotnet/aspnetcore/tree/b8139c5ee58f1708b0e3368a1b241400edd6c
+bc4","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/8.0.6"", ""Microsoft.AspNetCore.Mvc.NewtonsoftJson"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/8.0.6#versions-body-tab",""
+"","Serialization","ASP.NET Core MVC features that use Newtonsoft.Json. Includes input and output fo
+rmatters for JSON and JSON PATCH. This package was built from the source code at
+ https://github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70
+a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/8.0.1"", ""Microsoft.AspNetCore.Mvc.NewtonsoftJson"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.Mvc.NewtonsoftJson/8.0.1#versions-body-tab",""
+"","Real-time Communication","Provides scale-out support for ASP.NET Core SignalR using a Redis server and the
+ StackExchange.Redis client. This package was built from the source code at http
+s://github.com/dotnet/aspnetcore/tree/c2a442982e736e17ae6bcadbfd8ccba278ee1be6","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.StackExchangeRedis/8.0.10"", ""Microsoft.AspNetCore.SignalR.StackExchangeRedis"")","Microsoft","MIT","8.0.10","","","","08-Oct-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.AspNetCore.SignalR.StackExchangeRedis/8.0.10#versions-body-tab",""
+"","General","The current data provider for SQL Server and Azure SQL databases. This has repla
+ced System.Data.SqlClient. These classes provide access to SQL and encapsulate d
+atabase-specific protocols, including tabular data stream (TDS). Commonly Used T
+ypes: Microsoft.Data.SqlClient.SqlConnection Microsoft.Data.SqlClient.SqlExcepti
+on Microsoft.Data.SqlClient.SqlParameter Microsoft.Data.SqlClient.SqlDataReader 
+Microsoft.Data.SqlClient.SqlCommand Microsoft.Data.SqlClient.SqlTransaction Micr
+osoft.Data.SqlClient.SqlParameterCollection Microsoft.Data.SqlClient.SqlClientFa
+ctory When using NuGet 3.x this package requires at least version 3.4.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.1"", ""Microsoft.Data.SqlClient"")","Microsoft","MIT","5.2.1","","","","01-Jun-24","Microsoft","https://aka.ms/sqlclientproject
+https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.1#versions-body-tab",""
+"","General","The current data provider for SQL Server and Azure SQL databases. This has repla
+ced System.Data.SqlClient. These classes provide access to SQL and encapsulate d
+atabase-specific protocols, including tabular data stream (TDS). Commonly Used T
+ypes: Microsoft.Data.SqlClient.SqlConnection Microsoft.Data.SqlClient.SqlExcepti
+on Microsoft.Data.SqlClient.SqlParameter Microsoft.Data.SqlClient.SqlDataReader 
+Microsoft.Data.SqlClient.SqlCommand Microsoft.Data.SqlClient.SqlTransaction Micr
+osoft.Data.SqlClient.SqlParameterCollection Microsoft.Data.SqlClient.SqlClientFa
+ctory When using NuGet 3.x this package requires at least version 3.4.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.0"", ""Microsoft.Data.SqlClient"")","Microsoft","MIT","5.2.0","","","","29-Feb-24","Microsoft","https://aka.ms/sqlclientproject
+https://www.nuget.org/packages/Microsoft.Data.SqlClient/5.2.0#versions-body-tab",""
+"","Entity Framework (ORM)","Entity Framework Core is a modern object-database mapper for .NET. It supports L
+INQ queries, change tracking, updates, and schema migrations. EF Core works with
+ SQL Server, Azure SQL Database, SQLite, Azure Cosmos DB, MySQL, PostgreSQL, and
+ other databases through a provider plugin API. Commonly Used Types: Microsoft.E
+ntityFrameworkCore.DbContext Microsoft.EntityFrameworkCore.DbSet","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.6"", ""Microsoft.EntityFrameworkCore"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.6#versions-body-tab",""
+"","Entity Framework (ORM)","Entity Framework Core is a modern object-database mapper for .NET. It supports L
+INQ queries, change tracking, updates, and schema migrations. EF Core works with
+ SQL Server, Azure SQL Database, SQLite, Azure Cosmos DB, MySQL, PostgreSQL, and
+ other databases through a provider plugin API. Commonly Used Types: Microsoft.E
+ntityFrameworkCore.DbContext Microsoft.EntityFrameworkCore.DbSet","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.1"", ""Microsoft.EntityFrameworkCore"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","A plugin for Microsoft.EntityFrameworkCore to support automatically recording da
+ta changes history.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.AutoHistory/6.0.0"", ""Microsoft.EntityFrameworkCore.AutoHistory"")","rigofunc,rigofunc@outlook.com","MIT","6.0.0","","","","14-Dec-22","rigofunc,rigofunc@outlook.com","https://github.com/arch/AutoHistory
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.AutoHistory/6.0.0#versions-body-tab",""
+"","Entity Framework (ORM)","Shared design-time components for Entity Framework Core tools.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/8.0.6"", ""Microsoft.EntityFrameworkCore.Design"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/8.0.6#versions-body-tab",""
+"","Entity Framework (ORM)","Shared design-time components for Entity Framework Core tools.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/8.0.1"", ""Microsoft.EntityFrameworkCore.Design"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Design/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","Dynamic Linq extensions for Microsoft.EntityFrameworkCore which adds Async suppo
+rt","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.DynamicLinq/8.3.7"", ""Microsoft.EntityFrameworkCore.DynamicLinq"")","ZZZ Projects,Stef Heyenrath","Apache-2.0","8.3.7","","","","20-Nov-23","ZZZ Projects,Stef Heyenrath","https://dynamic-linq.net/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.DynamicLinq/8.3.7#versions-body-tab",""
+"","Entity Framework (ORM)","In-memory database provider for Entity Framework Core (to be used for testing pu
+rposes).","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory/8.0.1"", ""Microsoft.EntityFrameworkCore.InMemory"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.InMemory/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","Lazy loading proxies for Entity Framework Core.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Proxies/8.0.1"", ""Microsoft.EntityFrameworkCore.Proxies"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Proxies/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","Shared Entity Framework Core components for relational database providers.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Relational/8.0.6"", ""Microsoft.EntityFrameworkCore.Relational"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Relational/8.0.6#versions-body-tab",""
+"","Entity Framework (ORM)","Shared Entity Framework Core components for relational database providers.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Relational/8.0.1"", ""Microsoft.EntityFrameworkCore.Relational"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Relational/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","SQLite database provider for Entity Framework Core.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Sqlite/8.0.1"", ""Microsoft.EntityFrameworkCore.Sqlite"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Sqlite/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","Microsoft SQL Server database provider for Entity Framework Core.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/8.0.1"", ""Microsoft.EntityFrameworkCore.SqlServer"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.SqlServer/8.0.1#versions-body-tab",""
+"","Entity Framework (ORM)","Entity Framework Core Tools for the NuGet Package Manager Console in Visual Stud
+io. Enables these commonly used commands: Add-Migration Bundle-Migration Drop-Da
+tabase Get-DbContext Get-Migration Optimize-DbContext Remove-Migration Scaffold-
+DbContext Script-Migration Update-Database","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools/8.0.1"", ""Microsoft.EntityFrameworkCore.Tools"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://docs.microsoft.com/ef/core/
+https://www.nuget.org/packages/Microsoft.EntityFrameworkCore.Tools/8.0.1#versions-body-tab",""
+"","Caching","Distributed cache implementation of Microsoft.Extensions.Caching.Distributed.IDi
+stributedCache using Redis. This package was built from the source code at https
+://github.com/dotnet/aspnetcore/tree/8e941eb42f819adb116b881195158b3887a70a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.Extensions.Caching.StackExchangeRedis/8.0.1"", ""Microsoft.Extensions.Caching.StackExchangeRedis"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.Extensions.Caching.StackExchangeRedis/8.0.1#versions-body-tab",""
+"","General","Command line configuration provider implementation for Microsoft.Extensions.Conf
+iguration. This package enables you to read configuration parameters from the co
+mmand line arguments of your application. You can use CommandLineConfigurationEx
+tensions.AddCommandLine extension method on IConfigurationBuilder to add the com
+mand line configuration provider to the configuration builder.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.Extensions.Configuration.CommandLine/8.0.0"", ""Microsoft.Extensions.Configuration.CommandLine"")","Microsoft","MIT","8.0.0","","","","14-Nov-23","Microsoft","https://dot.net/
+https://www.nuget.org/packages/Microsoft.Extensions.Configuration.CommandLine/8.0.0#versions-body-tab",""
+"","General","Default implementation of dependency injection for Microsoft.Extensions.Dependen
+cyInjection.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/8.0.0"", ""Microsoft.Extensions.DependencyInjection"")","Microsoft","MIT","8.0.0","","","","14-Nov-23","Microsoft","https://dot.net/
+https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection/8.0.0#versions-body-tab",""
+"","Health Check","Components for performing health checks using EntityFrameworkCore. This package 
+was built from the source code at https://github.com/dotnet/aspnetcore/tree/b813
+9c5ee58f1708b0e3368a1b241400edd6cbc4","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore/8.0.6"", ""Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore/8.0.6#versions-body-tab",""
+"","Health Check","Components for performing health checks using EntityFrameworkCore. This package 
+was built from the source code at https://github.com/dotnet/aspnetcore/tree/8e94
+1eb42f819adb116b881195158b3887a70a1c","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore/8.0.1"", ""Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://asp.net/
+https://www.nuget.org/packages/Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore/8.0.1#versions-body-tab",""
+"","Authentication","Includes types that provide support for creating, serializing and validating JSO
+N Web Tokens. This is a newer, faster version of System.IdentityModel.Tokens.Jwt
+ that has additional functionality.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.IdentityModel.JsonWebTokens/7.6.2"", ""Microsoft.IdentityModel.JsonWebTokens"")","Microsoft","MIT","7.6.2","","","","20-Jun-24","Microsoft","https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet
+https://www.nuget.org/packages/Microsoft.IdentityModel.JsonWebTokens/7.6.2#versions-body-tab",""
+"","Testing","The MSbuild targets and properties for building .NET test projects.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.NET.Test.Sdk/17.8.0"", ""Microsoft.NET.Test.Sdk"")","Microsoft","N/A","17.8.0","","","","08-Nov-23","Microsoft","https://github.com/microsoft/vstest
+https://www.nuget.org/packages/Microsoft.NET.Test.Sdk/17.8.0#versions-body-tab",""
+"","Cloud Services","Targets files to enable the Visual Studio Tools for Containers.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0"", ""Microsoft.VisualStudio.Azure.Containers.Tools.Targets"")","Microsoft","N/A","1.21.0","","","","29-Jun-24","Microsoft","https://aka.ms/vscontainertools
+https://www.nuget.org/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.21.0#versions-body-tab",""
+"","Cloud Services","Targets files to enable the Visual Studio Tools for Containers.","=HYPERLINK(""https://www.nuget.org/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.6"", ""Microsoft.VisualStudio.Azure.Containers.Tools.Targets"")","Microsoft","N/A","1.19.6","","","","06-Jan-24","Microsoft","https://aka.ms/vscontainertools
+https://www.nuget.org/packages/Microsoft.VisualStudio.Azure.Containers.Tools.Targets/1.19.6#versions-body-tab",""
+"","General","MimeKit is an Open Source library for creating and parsing MIME, S/MIME and PGP 
+messages on desktop and mobile platforms. It also supports parsing of Unix mbox 
+files. Unlike any other .NET MIME parser, MimeKit's parser does not need to pars
+e string input nor does it use a TextReader. Instead, it parses raw byte streams
+, thus allowing it to better support undeclared 8bit text in headers as well as 
+message bodies. It also means that MimeKit's parser is significantly faster than
+ other .NET MIME parsers. MimeKit's parser also uses a real tokenizer when parsi
+ng the headers rather than regex or string.Split() like most other .NET MIME par
+sers. This means that MimeKit is much more RFC-compliant than any other .NET MIM
+E parser out there, including the commercial implementations. In addition to hav
+ing a far superior parser implementation, MimeKit's object tree is not a derivat
+ive of System.Net.Mail objects and thus does not suffer from System.Net.Mail's l
+imitations. API documentation can be found on the web at http://www.mimekit.net/
+docs For those that need SMTP, POP3 or IMAP support, check out https://github.co
+m/jstedfast/MailKit","=HYPERLINK(""https://www.nuget.org/packages/MimeKit/4.7.1"", ""MimeKit"")","Jeffrey Stedfast","MIT","4.7.1","","","","11-Jul-24","Jeffrey Stedfast","https://www.mimekit.net/
+https://www.nuget.org/packages/MimeKit/4.7.1#versions-body-tab",""
+"","General","Lightweight mini-profiler, designed for ASP.NET Core MVC (*not* System.Web) webs
+ites","=HYPERLINK(""https://www.nuget.org/packages/MiniProfiler.AspNetCore.Mvc/4.3.8"", ""MiniProfiler.AspNetCore.Mvc"")","Nick Craver","MIT","4.3.8","","","","25-May-23","Nick Craver","https://miniprofiler.com/
+https://www.nuget.org/packages/MiniProfiler.AspNetCore.Mvc/4.3.8#versions-body-tab",""
+"","Entity Framework (ORM)","MiniProfiler: Integration for Entity Framework Core","=HYPERLINK(""https://www.nuget.org/packages/MiniProfiler.EntityFrameworkCore/4.3.8"", ""MiniProfiler.EntityFrameworkCore"")","Nick Craver","MIT","4.3.8","","","","25-May-23","Nick Craver","https://miniprofiler.com/
+https://www.nuget.org/packages/MiniProfiler.EntityFrameworkCore/4.3.8#versions-body-tab",""
+"","Entity Framework (ORM)","Extension for mocking Entity Framework Core operations such ToListAsync, FirstOr
+DefaultAsync etc. When writing tests for your application it is often desirable 
+to avoid hitting the database. The extension allows you to achieve this by creat
+ing a context – with behavior defined by your tests – that makes use of in-memor
+y data.","=HYPERLINK(""https://www.nuget.org/packages/MockQueryable.EntityFrameworkCore/7.0.0"", ""MockQueryable.EntityFrameworkCore"")","Roman Titov","N/A","7.0.0","","","","21-Nov-22","Roman Titov","https://github.com/romantitov/MockQueryable
+https://www.nuget.org/packages/MockQueryable.EntityFrameworkCore/7.0.0#versions-body-tab",""
+"","Testing","Extension for mocking Entity Framework Core operations such ToListAsync, FirstOr
+DefaultAsync etc. When writing tests for your application it is often desirable 
+to avoid hitting the database. The extension allows you to achieve this by creat
+ing a context – with behavior defined by your tests – that makes use of in-memor
+y data.","=HYPERLINK(""https://www.nuget.org/packages/MockQueryable.Moq/7.0.0"", ""MockQueryable.Moq"")","Roman Titov","N/A","7.0.0","","","","21-Nov-22","Roman Titov","https://github.com/romantitov/MockQueryable
+https://www.nuget.org/packages/MockQueryable.Moq/7.0.0#versions-body-tab",""
+"","Testing","Moq is the most popular and friendly mocking framework for .NET.","=HYPERLINK(""https://www.nuget.org/packages/Moq/4.20.70"", ""Moq"")","Daniel Cazzulino, kzu","BSD-3-Clause","4.20.70","","","","28-Nov-23","Daniel Cazzulino, kzu","https://github.com/moq/moq
+https://www.nuget.org/packages/Moq/4.20.70#versions-body-tab",""
+"","Serialization","Json.NET Schema is a complete and easy-to-use JSON Schema framework for .NET","=HYPERLINK(""https://www.nuget.org/packages/Newtonsoft.Json.Schema/3.0.15"", ""Newtonsoft.Json.Schema"")","Newtonsoft","N/A","3.0.15","","","","29-Apr-23","Newtonsoft","https://www.newtonsoft.com/jsonschema
+https://www.nuget.org/packages/Newtonsoft.Json.Schema/3.0.15#versions-body-tab",""
+"","Database","Npgsql is the open source .NET data provider for PostgreSQL.","=HYPERLINK(""https://www.nuget.org/packages/Npgsql/8.0.3"", ""Npgsql"")","Shay Rojansky,Nikita Kazmin,Brar Piening,Nino Floris,Yoh Deadfall,Austin Drenski
+,Emil Lenngren,Francisco Figueiredo Jr.,Kenji Uno","PostgreSQL","8.0.3","","","","09-May-24","Shay Rojansky,Nikita Kazmin,Brar Piening,Nino Floris,Yoh Deadfall,Austin Drenski
+,Emil Lenngren,Francisco Figueiredo Jr.,Kenji Uno","https://github.com/npgsql/npgsql
+https://www.nuget.org/packages/Npgsql/8.0.3#versions-body-tab",""
+"","Database","PostgreSQL/Npgsql provider for Entity Framework Core.","=HYPERLINK(""https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/8.0.4"", ""Npgsql.EntityFrameworkCore.PostgreSQL"")","Shay Rojansky,Austin Drenski,Yoh Deadfall","PostgreSQL","8.0.4","","","","11-May-24","Shay Rojansky,Austin Drenski,Yoh Deadfall","https://github.com/npgsql/efcore.pg
+https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/8.0.4#versions-body-tab",""
+"","Database","PostgreSQL/Npgsql provider for Entity Framework Core.","=HYPERLINK(""https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/8.0.0"", ""Npgsql.EntityFrameworkCore.PostgreSQL"")","Shay Rojansky,Austin Drenski,Yoh Deadfall","PostgreSQL","8.0.0","","","","21-Nov-23","Shay Rojansky,Austin Drenski,Yoh Deadfall","https://github.com/npgsql/efcore.pg
+https://www.nuget.org/packages/Npgsql.EntityFrameworkCore.PostgreSQL/8.0.0#versions-body-tab",""
+"","Testing","NUnit is a unit-testing framework for all .NET languages. It can run on macOS, L
+inux and Windows operating systems. NUnit can be used for a wide range of testin
+g, from unit testing with TDD to full fledged system and integration testing. It
+ is a non-opinionated, broad and deep framework with multiple different ways to 
+assert that your code behaves as expected. Many aspects of NUnit can be extended
+ to suit your specific purposes. The latest version, version 4, is an upgrade fr
+om the groundbreaking NUnit 3 framework. It is a modernized version, aimed at ta
+king advantage of the latest .NET features and C# language constructs. If you ar
+e upgrading from NUnit 3, be aware of the breaking changes (https://docs.nunit.o
+rg/articles/nunit/release-notes/breaking-changes.html#nunit-40). Please see the 
+NUnit 4 Migration Guide (https://docs.nunit.org/articles/nunit/release-notes/Nun
+it4.0-MigrationGuide.html) and take care to prepare your NUnit 3 code before you
+ do the upgrade. Supported platforms: - .NET Framework 4.6.2+ - .NET 6.0+","=HYPERLINK(""https://www.nuget.org/packages/NUnit/4.0.1"", ""NUnit"")","Charlie Poole, Rob Prouse","N/A","4.0.1","","","","02-Dec-23","Charlie Poole, Rob Prouse","https://nunit.org/
+https://www.nuget.org/packages/NUnit/4.0.1#versions-body-tab",""
+"","Testing","This package includes analyzers and code fixes for test projects using NUnit 3. 
+The analyzers will mark wrong usages when writing tests, and the code fixes can 
+be used to used to correct these usages. Version 3.0 and upwards works in Visual
+ Studio 2019 and also enables supression of compiler errors such as errors arisi
+ng from nullable reference types. For Visual Studio 2017 one must use versions b
+elow 3.0.","=HYPERLINK(""https://www.nuget.org/packages/NUnit.Analyzers/3.10.0"", ""NUnit.Analyzers"")","NUnit","N/A","3.10.0","","","","28-Nov-23","NUnit","https://github.com/nunit/nunit.analyzers
+https://www.nuget.org/packages/NUnit.Analyzers/3.10.0#versions-body-tab",""
+"","Testing","The NUnit3 TestAdapter for Visual Studio, all versions from 2012 and onwards, an
+d DotNet (incl. .Net core), versions .net framework 4.6.2 or higher, .net core 3
+.1, .net 5 or higher. Note that this package ONLY contains the adapter, not the 
+NUnit framework. For VS 2017 and forward, you should add this package to every t
+est project in your solution. (Earlier versions only require a single adapter pa
+ckage per solution.)","=HYPERLINK(""https://www.nuget.org/packages/NUnit3TestAdapter/4.5.0"", ""NUnit3TestAdapter"")","Charlie Poole, Terje Sandstrom","MIT","4.5.0","","","","31-May-23","Charlie Poole, Terje Sandstrom","https://docs.nunit.org/articles/vs-test-adapter/Index.html
+https://www.nuget.org/packages/NUnit3TestAdapter/4.5.0#versions-body-tab",""
+"","General","Polly is a .NET resilience and transient-fault-handling library that allows deve
+lopers to express resilience and transient fault handling policies such as Retry
+, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
+ead-safe manner.","=HYPERLINK(""https://www.nuget.org/packages/Polly/8.4.0"", ""Polly"")","Michael Wolfenden, App vNext","BSD-3-Clause","8.4.0","","","","10-May-24","Michael Wolfenden, App vNext","https://github.com/App-vNext/Polly
+https://www.nuget.org/packages/Polly/8.4.0#versions-body-tab",""
+"","General","Polly is a .NET resilience and transient-fault-handling library that allows deve
+lopers to express resilience and transient fault handling policies such as Retry
+, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thr
+ead-safe manner.","=HYPERLINK(""https://www.nuget.org/packages/Polly/8.2.1"", ""Polly"")","Michael Wolfenden, App vNext","BSD-3-Clause","8.2.1","","","","05-Jan-24","Michael Wolfenden, App vNext","https://github.com/App-vNext/Polly
+https://www.nuget.org/packages/Polly/8.2.1#versions-body-tab",""
+"","HTTP Client","Testing layer for Microsoft's HttpClient library","=HYPERLINK(""https://www.nuget.org/packages/RichardSzalay.MockHttp/7.0.0"", ""RichardSzalay.MockHttp"")","Richard Szalay","MIT","7.0.0","","","","12-Oct-23","Richard Szalay","N/A
+https://www.nuget.org/packages/RichardSzalay.MockHttp/7.0.0#versions-body-tab",""
+"","Logging","Simple .NET logging with fully-structured events","=HYPERLINK(""https://www.nuget.org/packages/Serilog/4.0.0"", ""Serilog"")","Serilog Contributors","Apache-2.0","4.0.0","","","","01-Jun-24","Serilog Contributors","https://serilog.net/
+https://www.nuget.org/packages/Serilog/4.0.0#versions-body-tab",""
+"","Logging","Simple .NET logging with fully-structured events","=HYPERLINK(""https://www.nuget.org/packages/Serilog/3.1.1"", ""Serilog"")","Serilog Contributors","Apache-2.0","3.1.1","","","","10-Nov-23","Serilog Contributors","https://serilog.net/
+https://www.nuget.org/packages/Serilog/3.1.1#versions-body-tab",""
+"","Logging","Serilog support for ASP.NET Core logging","=HYPERLINK(""https://www.nuget.org/packages/Serilog.AspNetCore/8.0.1"", ""Serilog.AspNetCore"")","Microsoft,Serilog Contributors","Apache-2.0","8.0.1","","","","19-Jan-24","Microsoft,Serilog Contributors","https://github.com/serilog/serilog-aspnetcore
+https://www.nuget.org/packages/Serilog.AspNetCore/8.0.1#versions-body-tab",""
+"","Logging","Serilog support for ASP.NET Core logging","=HYPERLINK(""https://www.nuget.org/packages/Serilog.AspNetCore/8.0.0"", ""Serilog.AspNetCore"")","Microsoft,Serilog Contributors","Apache-2.0","8.0.0","","","","15-Nov-23","Microsoft,Serilog Contributors","https://github.com/serilog/serilog-aspnetcore
+https://www.nuget.org/packages/Serilog.AspNetCore/8.0.0#versions-body-tab",""
+"","Logging","Enrich Serilog log events with properties from System.Environment.","=HYPERLINK(""https://www.nuget.org/packages/Serilog.Enrichers.Environment/3.0.0"", ""Serilog.Enrichers.Environment"")","Serilog Contributors","Apache-2.0","3.0.0","","","","10-Jun-24","Serilog Contributors","https://github.com/serilog/serilog-enrichers-environment
+https://www.nuget.org/packages/Serilog.Enrichers.Environment/3.0.0#versions-body-tab",""
+"","Logging","An embeddable mini-language for filtering, enriching, and formatting Serilog eve
+nts, ideal for use with JSON or XML configuration.","=HYPERLINK(""https://www.nuget.org/packages/Serilog.Expressions/5.0.0"", ""Serilog.Expressions"")","Serilog Contributors","Apache-2.0","5.0.0","","","","13-Jun-24","Serilog Contributors","https://github.com/serilog/serilog-expressions
+https://www.nuget.org/packages/Serilog.Expressions/5.0.0#versions-body-tab",""
+"","Database","Serilog.Sinks.Postgresql.Alternative is a library to save logging information fr
+om https://github.com/serilog/serilog to https://www.postgresql.org/.","=HYPERLINK(""https://www.nuget.org/packages/Serilog.Sinks.Postgresql.Alternative/4.0.4"", ""Serilog.Sinks.Postgresql.Alternative"")","SeppPenner and the Serilog contributors","N/A","4.0.4","","","","17-May-24","SeppPenner and the Serilog contributors","https://www.nuget.org/packages/Serilog.Sinks.Postgresql.Alternative/
+https://www.nuget.org/packages/Serilog.Sinks.Postgresql.Alternative/4.0.4#versions-body-tab",""
+"","General","A new, fully featured, fully managed, cross-platform, 2D graphics API for .NET","=HYPERLINK(""https://www.nuget.org/packages/SixLabors.ImageSharp/3.1.5"", ""SixLabors.ImageSharp"")","Six Labors and contributors","N/A","3.1.5","","","","22-Jul-24","Six Labors and contributors","https://github.com/SixLabors/ImageSharp
+https://www.nuget.org/packages/SixLabors.ImageSharp/3.1.5#versions-body-tab",""
+"","General","Swagger tools for documenting APIs built on ASP.NET Core","=HYPERLINK(""https://www.nuget.org/packages/Swashbuckle.AspNetCore/6.6.2"", ""Swashbuckle.AspNetCore"")","domaindrivendev","MIT","6.6.2","","","","21-May-24","domaindrivendev","https://github.com/domaindrivendev/Swashbuckle.AspNetCore
+https://www.nuget.org/packages/Swashbuckle.AspNetCore/6.6.2#versions-body-tab",""
+"","General","Swagger tools for documenting APIs built on ASP.NET Core","=HYPERLINK(""https://www.nuget.org/packages/Swashbuckle.AspNetCore/6.5.0"", ""Swashbuckle.AspNetCore"")","Swashbuckle.AspNetCore","MIT","6.5.0","","","","11-Jan-23","Swashbuckle.AspNetCore","https://github.com/domaindrivendev/Swashbuckle.AspNetCore
+https://www.nuget.org/packages/Swashbuckle.AspNetCore/6.5.0#versions-body-tab",""
+"","General","Some additional useful filters for Swashbuckle.AspNetCore. This package replaces
+ Swashbuckle.AspNetCore.Examples.","=HYPERLINK(""https://www.nuget.org/packages/Swashbuckle.AspNetCore.Filters/8.0.0"", ""Swashbuckle.AspNetCore.Filters"")","Matt Frear","MIT","8.0.0","","","","09-Jan-24","Matt Frear","https://github.com/mattfrear/Swashbuckle.AspNetCore.Filters
+https://www.nuget.org/packages/Swashbuckle.AspNetCore.Filters/8.0.0#versions-body-tab",""
+"","General","Provides the data provider for SQL Server. These classes provide access to versi
+ons of SQL Server and encapsulate database-specific protocols, including tabular
+ data stream (TDS) Commonly Used Types: System.Data.SqlClient.SqlConnection Syst
+em.Data.SqlClient.SqlException System.Data.SqlClient.SqlParameter System.Data.Sq
+lDbType System.Data.SqlClient.SqlDataReader System.Data.SqlClient.SqlCommand Sys
+tem.Data.SqlClient.SqlTransaction System.Data.SqlClient.SqlParameterCollection S
+ystem.Data.SqlClient.SqlClientFactory When using NuGet 3.x this package requires
+ at least version 3.4.","=HYPERLINK(""https://www.nuget.org/packages/System.Data.SqlClient/4.8.6"", ""System.Data.SqlClient"")","Microsoft","MIT","4.8.6","","","","09-Jan-24","Microsoft","https://github.com/dotnet/corefx
+https://www.nuget.org/packages/System.Data.SqlClient/4.8.6#versions-body-tab",""
+"","General","Provides access to GDI+ graphics functionality. Commonly Used Types: System.Draw
+ing.Bitmap System.Drawing.BitmapData System.Drawing.Brush System.Drawing.Font Sy
+stem.Drawing.Graphics System.Drawing.Icon Since .NET 7, non-Windows platforms ar
+e not supported, even with the runtime configuration switch. See https://aka.ms/
+systemdrawingnonwindows for more information.","=HYPERLINK(""https://www.nuget.org/packages/System.Drawing.Common/8.0.6"", ""System.Drawing.Common"")","Microsoft","MIT","8.0.6","","","","28-May-24","Microsoft","https://github.com/dotnet/winforms
+https://www.nuget.org/packages/System.Drawing.Common/8.0.6#versions-body-tab",""
+"","General","Provides access to GDI+ graphics functionality. Commonly Used Types: System.Draw
+ing.Bitmap System.Drawing.BitmapData System.Drawing.Brush System.Drawing.Font Sy
+stem.Drawing.Graphics System.Drawing.Icon Since .NET 7, non-Windows platforms ar
+e not supported, even with the runtime configuration switch. See https://aka.ms/
+systemdrawingnonwindows for more information.","=HYPERLINK(""https://www.nuget.org/packages/System.Drawing.Common/8.0.1"", ""System.Drawing.Common"")","Microsoft","MIT","8.0.1","","","","09-Jan-24","Microsoft","https://github.com/dotnet/winforms
+https://www.nuget.org/packages/System.Drawing.Common/8.0.1#versions-body-tab",""
+"","Authentication","Includes types that provide support for creating, serializing and validating JSO
+N Web Tokens. As of IdentityModel 7x, this is a legacy tool that should be repla
+ced with Microsoft.IdentityModel.JsonWebTokens.","=HYPERLINK(""https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/7.6.2"", ""System.IdentityModel.Tokens.Jwt"")","Microsoft","MIT","7.6.2","","","","20-Jun-24","Microsoft","https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet
+https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/7.6.2#versions-body-tab",""
+"","Authentication","Includes types that provide support for creating, serializing and validating JSO
+N Web Tokens.","=HYPERLINK(""https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/6.35.0"", ""System.IdentityModel.Tokens.Jwt"")","Microsoft","MIT","6.35.0","","","","10-Jan-24","Microsoft","https://github.com/AzureAD/azure-activedirectory-identitymodel-extensions-for-dotnet
+https://www.nuget.org/packages/System.IdentityModel.Tokens.Jwt/6.35.0#versions-body-tab",""
+"","General","This is a .NETStandard / .NET Core port of the the Microsoft assembly for the .N
+et 4.0 Dynamic language functionality.","=HYPERLINK(""https://www.nuget.org/packages/System.Linq.Dynamic.Core/1.3.8"", ""System.Linq.Dynamic.Core"")","ZZZ Projects,Stef Heyenrath,Microsoft,Scott Guthrie,King Wilder,Nathan Arnott","Apache-2.0","1.3.8","","","","20-Jan-24","ZZZ Projects,Stef Heyenrath,Microsoft,Scott Guthrie,King Wilder,Nathan Arnott","https://dynamic-linq.net/
+https://www.nuget.org/packages/System.Linq.Dynamic.Core/1.3.8#versions-body-tab",""
+"","HTTP Client","Provides a programming interface for modern HTTP applications, including HTTP cl
+ient components that allow applications to consume web services over HTTP and HT
+TP components that can be used by both clients and servers for parsing HTTP head
+ers. Commonly Used Types: System.Net.Http.HttpResponseMessage System.Net.Http.De
+legatingHandler System.Net.Http.HttpRequestException System.Net.Http.HttpClient 
+System.Net.Http.MultipartContent System.Net.Http.Headers.HttpContentHeaders Syst
+em.Net.Http.HttpClientHandler System.Net.Http.StreamContent System.Net.Http.Form
+UrlEncodedContent System.Net.Http.HttpMessageHandler When using NuGet 3.x this p
+ackage requires at least version 3.4.","=HYPERLINK(""https://www.nuget.org/packages/System.Net.Http/4.3.4"", ""System.Net.Http"")","Microsoft","N/A","4.3.4","","","","10-Oct-18","Microsoft","https://dot.net/
+https://www.nuget.org/packages/System.Net.Http/4.3.4#versions-body-tab",""
+"","Caching","Provides classes to use caching facilities. Commonly Used Types: System.Runtime.
+Caching.CacheEntryChangeMonitor System.Runtime.Caching.CacheEntryRemovedArgument
+s System.Runtime.Caching.CacheEntryUpdateArguments System.Runtime.Caching.CacheI
+tem System.Runtime.Caching.CacheItemPolicy System.Runtime.Caching.ChangeMonitor 
+System.Runtime.Caching.FileChangeMonitor System.Runtime.Caching.HostFileChangeMo
+nitor System.Runtime.Caching.MemoryCache System.Runtime.Caching.ObjectCache","=HYPERLINK(""https://www.nuget.org/packages/System.Runtime.Caching/8.0.0"", ""System.Runtime.Caching"")","Microsoft","MIT","8.0.0","","","","14-Nov-23","Microsoft","https://dot.net/
+https://www.nuget.org/packages/System.Runtime.Caching/8.0.0#versions-body-tab",""
+"","General","Provides support for PKCS and CMS algorithms. Commonly Used Types: System.Securi
+ty.Cryptography.Pkcs.EnvelopedCms","=HYPERLINK(""https://www.nuget.org/packages/System.Security.Cryptography.Pkcs/8.0.0"", ""System.Security.Cryptography.Pkcs"")","Microsoft","MIT","8.0.0","","","","14-Nov-23","Microsoft","https://dot.net/
+https://www.nuget.org/packages/System.Security.Cryptography.Pkcs/8.0.0#versions-body-tab",""
+"","General","Provides types for encoding and escaping strings for use in JavaScript, HyperTex
+t Markup Language (HTML), and uniform resource locators (URL). Commonly Used Typ
+es: System.Text.Encodings.Web.HtmlEncoder System.Text.Encodings.Web.UrlEncoder S
+ystem.Text.Encodings.Web.JavaScriptEncoder","=HYPERLINK(""https://www.nuget.org/packages/System.Text.Encodings.Web/8.0.0"", ""System.Text.Encodings.Web"")","Microsoft","MIT","8.0.0","","","","14-Nov-23","Microsoft","https://dot.net/
+https://www.nuget.org/packages/System.Text.Encodings.Web/8.0.0#versions-body-tab",""
+"","General","Provides the System.Text.RegularExpressions.Regex class, an implementation of a 
+regular expression engine. Commonly Used Types: System.Text.RegularExpressions.R
+egex System.Text.RegularExpressions.RegexOptions System.Text.RegularExpressions.
+Match System.Text.RegularExpressions.Group System.Text.RegularExpressions.Captur
+e System.Text.RegularExpressions.MatchEvaluator When using NuGet 3.x this packag
+e requires at least version 3.4.","=HYPERLINK(""https://www.nuget.org/packages/System.Text.RegularExpressions/4.3.1"", ""System.Text.RegularExpressions"")","Microsoft","N/A","4.3.1","","","","14-May-19","Microsoft","https://dot.net/
+https://www.nuget.org/packages/System.Text.RegularExpressions/4.3.1#versions-body-tab",""
+"","Testing","xUnit.net is a developer testing framework, built to support Test Driven Develop
+ment, with a design goal of extreme simplicity and alignment with framework feat
+ures. Installing this package installs xunit.core, xunit.assert, and xunit.analy
+zers.","=HYPERLINK(""https://www.nuget.org/packages/xunit/2.6.6"", ""xunit"")","jnewkirk,bradwilson","Apache-2.0","2.6.6","","","","15-Jan-24","jnewkirk,bradwilson","N/A
+https://www.nuget.org/packages/xunit/2.6.6#versions-body-tab",""
+"","Testing","Visual Studio 2022+ Test Explorer runner for the xUnit.net framework. Capable of
+ running xUnit.net v1.9.2 and v2.0+ tests. Supports .NET 4.6.2 or later, and .NE
+T 6 or later.","=HYPERLINK(""https://www.nuget.org/packages/xunit.runner.visualstudio/2.5.6"", ""xunit.runner.visualstudio"")","jnewkirk,bradwilson","Apache-2.0","2.5.6","","","","23-Dec-23","jnewkirk,bradwilson","N/A
+https://www.nuget.org/packages/xunit.runner.visualstudio/2.5.6#versions-body-tab",""
